@@ -6,7 +6,7 @@ package Torres.De.Hanoi;
 
 /**
  *
- * @author miguvelito
+ * @author jheison
  */
 import java.util.Scanner;
 
