@@ -6,7 +6,7 @@ package algoritmo.de.dijkstra;
 
 /**
  *
- * @author miguvelito
+ * @author jheison
  */import java.util.Arrays;
 
 public class Dijkstra {
