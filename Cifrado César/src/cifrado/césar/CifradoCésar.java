@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author migvelito
+ * @author jheison
  */
 public class CifradoCésar {
 
