@@ -6,7 +6,7 @@ package búsqueda.binaria;
 
 /**
  *
- * @author miguvelito
+ * @author jheison
  */
 public class BúsquedaBinaria {
 
