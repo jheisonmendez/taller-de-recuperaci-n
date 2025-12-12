@@ -6,7 +6,7 @@ package eliminación.de.duplicados;
 
 /**
  *
- * @author miguvelito
+ * @author jheison
  */
 public class EliminaciónDeDuplicados {
 
