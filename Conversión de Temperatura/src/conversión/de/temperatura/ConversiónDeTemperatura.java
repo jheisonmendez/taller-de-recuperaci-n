@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author miguvelito
+ * @author jheison
  */
 public class ConversiónDeTemperatura {
 
